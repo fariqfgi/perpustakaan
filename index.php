@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./assets/css/home.css">
     <link href="https://fonts.googleapis.com/css?family=Merriweather&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@500&display=swap" rel="stylesheet">
-
+    <!-- Comment title-->
 
     <title>Perpustakaan Online</title>
   </head>
@@ -33,7 +33,7 @@
       </div>
     </nav>
     <!-- End Navbar -->
-    
+    <!--Container -->
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-6 teks-1">Baca dan Pinjam Buku</div>
@@ -52,7 +52,7 @@
         </div>
       </div>
     </div>
-
+<!-- End container -->
 
 
     <!-- Optional JavaScript -->
