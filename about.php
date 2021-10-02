@@ -33,7 +33,7 @@
       </div>
     </nav>
     <!-- End Navbar -->
-    
+    <!-- container -->
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-6 teks-1">Welcome</div>
@@ -48,7 +48,7 @@
         </div>
       </div>
     </div>
-   
+   <!-- End container -->
 
 
     <!-- Optional JavaScript -->

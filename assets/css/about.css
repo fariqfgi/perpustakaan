@@ -36,6 +36,21 @@ html, body {
     font-family: 'Baloo Paaji 2', cursive;
 }
 
+.teks-4 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+.teks-5 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+
 /* Dekstop Version */
 @media (min-width: 992px) {
     .teks-1{
